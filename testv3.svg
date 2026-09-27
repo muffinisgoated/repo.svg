@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    width="100%"
+    height="100%"
+    viewBox="0 0 100 100"
+    preserveAspectRatio="none"
+>
+    <foreignObject x="0" y="0" width="100" height="100">
+        <xhtml:body
+            style="
+                margin:0;
+                padding:0;
+                width:100%;
+                height:100%;
+                overflow:hidden;
+            "
+        >
+
+            <xhtml:meta
+                name="viewport"
+                content="width=device-width, initial-scale=1.0"
+            />
+
+            <xhtml:iframe
+                src="https://xylora.org/index.html"
+                style="
+                    position:absolute;
+                    top:0;
+                    left:0;
+                    width:100%;
+                    height:100%;
+                    border:none;
+                    margin:0;
+                    padding:0;
+                    display:block;
+                    overflow:hidden;
+                "
+            ></xhtml:iframe>
+
+        </xhtml:body>
+    </foreignObject>
+</svg>
